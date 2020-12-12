@@ -1,5 +1,5 @@
-# 木盏Python中文文档
-
+## Python中文文档
+@author: Levi, Leo
 @contact: levio.pku@gmail.com
 
 ## 1. 环境安装
