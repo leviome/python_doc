@@ -11,6 +11,7 @@
 * `Mac环境安装`
 
 ## 2. 基本语法
+**注意：本文档仅介绍python3语法，Python2将不会涉及**
 ```python
 print('hello world!')
 ```
